@@ -4,6 +4,8 @@ Problem Statement
 
 	Generate the summary of the function definition, group the similar summaries together
 
+sourcecode.py ==> This is the entry point for the application to run, which imports other code files and perform the necessary operations and displays the final output of the application.
+
 This projects mainly has 3 phases
 
 	phase-1
@@ -63,3 +65,4 @@ This projects mainly has 3 phases
 		
 Output of the project is as below and present in the Output.png
 
+<img width="751" alt="Output" src="https://github.com/phaniteja5789/CodeSummarization/assets/36558484/92f6d211-157a-4855-ba2e-5b8366e24818">
